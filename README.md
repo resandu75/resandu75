@@ -11,7 +11,7 @@ Second-year **BSc (Hons) IT undergraduate specializing in Cyber Security at SLII
 - 🎯 Open to **Cyber Security / SOC / IT Internship** opportunities
 - 📍 Sri Lanka
 
----
+--- 
 
 ## 🛠️ Technical Skills
 
